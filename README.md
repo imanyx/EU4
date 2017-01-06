@@ -1,2 +1,3 @@
 # EU4
-Recreating some of the mechanics of the game 'Europa Universalis IV' for learning purposes.
+
+Remaking some of the mechanics of Europa Universalis IV (and probably other Paradox Interactive titles).
