@@ -11,7 +11,7 @@ class Province():
     def __str__(self):
         return(str(self.provid) +" "+ str(self.name) +" "+ str(self.dev))
 
-with open('data.csv', newline='') as f:
+with open('provinces.csv', newline='') as f:
     reader = csv.reader(f)
     for row in reader:
         # NOTE: .strip was very useful here, so I don't end up with brackets in my list. YAY
